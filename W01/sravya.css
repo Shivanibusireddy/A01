@@ -1,0 +1,48 @@
+
+body
+{
+	 background-color: #7FFFD4;
+	 font-family: "Open Sans", sans-serif;
+	 font-size: 18px;
+	 
+}
+article
+{
+	  font-family: "Open Sans", sans-serif;
+	  font-size: 15px;
+	  font-weight: normal;
+}
+header
+{
+	  background-color: #191970;
+	  font-family: "Merriweather", serif;
+	 /* padding: 5px 25px;*/
+   
+	  color: #fff;
+	  font-size: 20px;
+	 /* top: 251px;*/
+	  text-align: center;
+}
+#past-section
+{
+	text-align: center;
+
+    font-size: 0.85em;
+	/*width: 210px;*/
+}
+#future-section
+{
+	font-size: 85%;
+    margin-bottom: 1.5em;
+}
+.section-header
+{
+    /* white-space: nowrap;
+   overflow: hidden;*/
+}
+footer
+{
+	  font-family: "Trebuchet MS", Helvetica, sans-serif;
+	  font-size: 15px;	 
+	  position: absolute;    
+}

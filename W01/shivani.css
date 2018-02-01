@@ -1,0 +1,37 @@
+article {
+background-color:white;
+font-family:sans-serif;
+font-size:18px;
+color:#444;
+}
+header {
+background-color:#33FFE9;
+font-family:Open Sans;
+font-size:30px;
+color:red;
+}
+footer {
+background-color:#BB19F3;
+font-family:sans-serif;
+font-size:15px;
+color:#00ff00;
+}
+#past-section {
+background-color:white;
+font-family:Open sans;
+font-size:0.8em;
+}
+#Future-section {
+background-color:#5785A4;
+font-size:0.8em;
+}
+.section-header {
+color:#5785A4;
+font-family:Open Sans;
+font-size:1.5em;
+}
+.aside-header {
+color:#5785A4;
+font-weight:bold;
+}
+	
